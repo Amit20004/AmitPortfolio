@@ -1,0 +1,9 @@
+body{
+    /* background: url('https://img.freepik.com/free-vector/black-abstract-wavy-background_53876-115683.jpg?t=st=1724143784~exp=1724147384~hmac=c8ba305b237d38ef1b00d29a4db2a3dbb8b282fe7d539dedb55e06a13b66b1cf&w=826'); */
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    transition: 0.6s ease-in-out;
+}

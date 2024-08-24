@@ -1,0 +1,37 @@
+.mainHeading h2 {
+    color: #00ff00;
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+
+.timeline-item {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 30px;
+}
+
+.timeline-icon {
+    color: #00ff00;
+    font-size: 1.5rem;
+    margin-right: 15px;
+    margin-top: 4px;
+}
+
+.timeline-content {
+    border-left: 2px solid #00ff00;
+    padding-left: 15px;
+    color: white;
+}
+
+.date {
+    color: #00ff00;
+    background-color: #333;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 0.9rem;
+}
+
+.highlight {
+    color: #00ff00;
+    font-weight: bold;
+}
